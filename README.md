@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any commercial projects
 - 📫 How to reach me:
-- 1) telegram: @nasferatum
+- 1) telegram: @muzhchinya 
 - 2) email: chiniakinivan@gmail.com                      
 
 <!---
