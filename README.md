@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ivan Chinyakin 👋</h1>
+<h1 align="center">Hi, I'm Ivan Chiniakin 👋</h1>
 <h3 align="center">Senior Frontend Engineer | React • Performance • AI in Production</h3>
 
 <p align="center">
