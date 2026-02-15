@@ -51,15 +51,6 @@ end-to-end — from technical design to production delivery.
 
 ---
 
-### 📌 What You’ll Find Here
-
-- Production-ready frontend examples
-- Architecture and performance-focused solutions
-- Clean, maintainable React + TypeScript code
-- Experiments with AI-assisted product features
-
----
-
 ### 📬 Contact
 
 <p align="start">
