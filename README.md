@@ -20,8 +20,11 @@ Senior Frontend Engineer with 5+ years of experience building **production-grade
 React applications** for enterprise and AI-driven products.
 
 I specialize in **frontend architecture, performance optimization**, and
-**integrating AI-powered features** into real-world products with a strong
-focus on reliability, scalability, and maintainability.
+**scalable frontend systems**, including **micro-frontend architectures** and
+real-time data-driven interfaces.
+
+I have hands-on experience integrating **AI-powered features** using LLM APIs
+in **compliance-aware, production environments**.
 
 Comfortable working in **remote, distributed teams**, owning features
 end-to-end — from technical design to production delivery.
@@ -36,9 +39,23 @@ end-to-end — from technical design to production delivery.
 
 **State & Data**
 - Redux, MobX, React Query
+- GraphQL, WebSockets
+
+**Architecture**
+- Frontend Architecture
+- Micro-frontends
+- Modular Design
 
 **UI & Styling**
-- CSS3, Tailwind CSS, Styled Components
+- CSS3
+- Ant Design
+- Tailwind CSS
+- Styled Components
+
+**Testing & Quality**
+- Jest
+- React Testing Library
+- Cypress
 
 **Tooling & Delivery**
 - Vite, Webpack
@@ -48,6 +65,16 @@ end-to-end — from technical design to production delivery.
 **AI Integration**
 - LLM APIs
 - AI-assisted features in production environments
+
+---
+
+### 📌 What You’ll Find Here
+
+- Production-ready frontend examples
+- Architecture and performance-focused solutions
+- Clean, maintainable React + TypeScript code
+- Micro-frontend and real-time data experiments
+- Practical AI-assisted product features
 
 ---
 
